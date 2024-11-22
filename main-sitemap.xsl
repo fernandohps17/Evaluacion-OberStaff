@@ -143,14 +143,3 @@
 		</html>
 	</xsl:template>
 	</xsl:stylesheet>
-
-<!--
-Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
-
-Caché de objetos 12/59 objetos usando Disk
-Almacenamiento en caché de páginas con Disk: Enhanced (Requested URI contains query) 
-Carga diferida
-Caché de base de datos usando Disk
-
-Served from: localhost @ 2024-11-22 13:52:10 by W3 Total Cache
--->
